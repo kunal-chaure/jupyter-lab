@@ -1,0 +1,21 @@
+Student_ID,Name,Age,Gender,City,Study_Hours,Attendance,Math_Score,Python_Score,DSA_Score,Projects,Placement_Status
+101,Kunal,20,Male,Pune,4.5,92,88,91,85,3,Placed
+102,Rahul,21,Male,Mumbai,3.0,85,76,82,78,2,Not Placed
+103,Priya,20,Female,Nashik,5.0,95,91,94,89,4,Placed
+104,Aman,22,Male,Pune,2.0,72,65,70,61,1,Not Placed
+105,Neha,20,Female,Mumbai,4.0,88,84,87,80,3,Placed
+106,Aditya,21,Male,Nagpur,1.5,68,59,64,55,0,Not Placed
+107,Sneha,20,Female,Pune,5.5,96,94,96,92,5,Placed
+108,Rohan,22,Male,Nashik,2.5,75,70,73,68,1,Not Placed
+109,Isha,21,Female,Mumbai,3.5,90,82,89,84,3,Placed
+110,Vivek,20,Male,Pune,4.0,86,79,85,81,2,Placed
+111,Anjali,21,Female,Nagpur,2.0,70,63,68,60,1,Not Placed
+112,Akash,22,Male,Mumbai,3.0,80,72,77,74,2,Not Placed
+113,Meera,20,Female,Pune,6.0,98,96,97,95,6,Placed
+114,Sahil,21,Male,Nashik,2.5,78,68,71,65,1,Not Placed
+115,Riya,20,Female,Mumbai,4.5,93,89,92,88,4,Placed
+116,Om,22,Male,Nagpur,1.0,65,55,60,52,0,Not Placed
+117,Pooja,21,Female,Pune,3.5,87,80,84,79,2,Placed
+118,Harsh,20,Male,Mumbai,2.0,74,62,69,64,1,Not Placed
+119,Simran,21,Female,Nashik,5.0,94,90,93,91,4,Placed
+120,Yash,22,Male,Pune,3.0,82,75,79,76,2,Not Placed
