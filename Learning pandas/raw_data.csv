@@ -1,12 +1,12 @@
-id,name,age,country,gender
-1,John Doe,29,USA,Male
-1,John Doe,29,USA,Male
-2,Jane Smith,,Canada,Female
-3,Alex,,USA,Unknown
-4,Maria Garcia,34,Spain,Female
-5,Li Wei,27,China,Male
-6,Ahmed Khan,45,India,Female
-7,,38,,Male
-8,Rachel Lee,29,USA,Female
-9,Carlos Ruiz,,Mexico,
-10,Emily Davis,31,USA,
+id,name,age,country,gender,income
+1,John Doe,29,USA,Male,60000
+1,John Doe,29,USA,Male,78787
+2,Jane Smith,,Canada,Female,78766
+3,Alex,,USA,Unknown,6545
+4,Maria Garcia,34,Spain,Female,565565
+5,Li Wei,27,China,Male,3457
+6,Ahmed Khan,45,India,Female,9565
+7,,38,,Male,452
+8,Rachel Lee,29,USA,Female,57333
+9,Carlos Ruiz,,Mexico,,565
+10,Emily Davis,31,USA,,45647
