@@ -1,0 +1,12 @@
+,id,name,age,country,gender,income
+0,7,,38.0,,Male,452
+1,9,Carlos Ruiz,,Mexico,,565
+2,5,Li Wei,27.0,China,Male,3457
+3,3,Alex,,USA,Unknown,6545
+4,6,Ahmed Khan,45.0,India,Female,9565
+5,10,Emily Davis,31.0,USA,,45647
+6,8,Rachel Lee,29.0,USA,Female,57333
+7,1,John Doe,29.0,USA,Male,60000
+8,2,Jane Smith,,Canada,Female,78766
+9,1,John Doe,29.0,USA,Male,78787
+10,4,Maria Garcia,34.0,Spain,Female,565565
